@@ -1,6 +1,6 @@
 function Formulario (){
     return(
-        <h2>Formulario:</h2>
+        <h2>Formulario: </h2>
     )
 }
 
