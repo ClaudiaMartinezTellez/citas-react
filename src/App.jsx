@@ -12,7 +12,6 @@ function App() {
   return(
     <>
     <Header/>
-    
     <ListaPaciente/>
     <Formulario/>
     <Error/>
