@@ -1,6 +1,7 @@
 function ListaPaciente (){
     return(
-        <h2>Lista Paciente: </h2>
+        <h2>Lista Pacientes
+        </h2> 
     )
 }
 
